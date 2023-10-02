@@ -17,11 +17,8 @@
 -🌐 En mi tiempo libre, puedes encontrarme explorando proyectos de código abierto   
  
 ## Skill
+![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c485406-b3a8-476d-8284-8fc82dd0060d)
 
-<div display="flex">
-
-</div>
-![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/8fdefbb8-ba69-4fe3-80eb-138d55c39c4c)
 
 <br>
 

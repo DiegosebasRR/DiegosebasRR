@@ -4,11 +4,11 @@
 <img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png">
 
 ## Sobre mi
--🚀 Apasionado por la Web 
--🌟 Aprendizaje Permanente  
--🤝 Colaboración Creativa
--💡 Mente Creativa   
--🌐 Navegando en el Código
+-🚀 Apasionado por la Web  
+-🌟 Aprendizaje Permanente   
+-🤝 Colaboración Creativa 
+-💡 Mente Creativa    
+-🌐 Navegando en el Código 
 
 -🚀 Soy un entusiasta desarrollador web con un amor profundo por la creación de experiencias en línea atractivas y funcionales.  
 -🌟 Mi viaje en la programación es una búsqueda constante de conocimiento y mejora. Siempre estoy explorando nuevas tecnologías y tendencias en el mundo del desarrollo.  

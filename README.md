@@ -5,10 +5,10 @@
 
 ## Sobre mi
 -🚀 Apasionado por la Web  
--🌟 Aprendizaje Permanente   
--🤝 Colaboración Creativa   
--💡 Mente Creativa        
--🌐 Navegando en el Código 
+-🌟 Aprendizaje Permanente                                              
+-🤝 Colaboración Creativa      
+-💡 Mente Creativa                                                 
+-🌐 Navegando en el Código                       
 
 -🚀 Soy un entusiasta desarrollador web con un amor profundo por la creación de experiencias en línea atractivas y funcionales.  
 -🌟 Mi viaje en la programación es una búsqueda constante de conocimiento y mejora. Siempre estoy explorando nuevas tecnologías y tendencias en el mundo del desarrollo.  

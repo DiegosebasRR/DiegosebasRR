@@ -28,6 +28,12 @@
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/c35872ae-84ff-493f-816b-f101ef081364)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/648728f1-d7d0-4b19-a3fb-f5802ddbe0a2)
 
+- Creación de APIs
+- Consumo de bases de datos (SQL y NoSQL)
+- Gestión de estados globales con Redux y Zustand
+- Protección de rutas y autenticación JWT
+- Enrutamiento con React Router DOM
+- Integración con servicios S3
 
 <br>
 

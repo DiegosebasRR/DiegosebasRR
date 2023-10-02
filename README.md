@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/-WebSite-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Mi proyecto de búsqueda de héroes de Marvel es una experiencia interactiva que combina la emoción del universo Marvel con tecnologías modernas. Utilizando React y Zustand para el estado global, he creado un buscador de héroes que te permite explorar y guardar tus personajes favoritos. Los héroes seleccionados se almacenan en el LocalStorage para que puedas mantener tus elecciones incluso después de cerrar la aplicación. Además, la navegación se gestiona de manera fluida con React Router DOM. ¡Explora el mundo de Marvel y encuentra a tus héroes favoritos con facilidad! 💥🦸 #Marvel #React #Zustand #DesarrolloWeb.</p>
 </div>                                                             
 </table>                                                                                 
 </div>

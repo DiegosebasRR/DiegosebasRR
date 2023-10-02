@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Diego Riveros👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png)">
+<img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png">
 
 ## Sobre mi
 - 📲 web developer

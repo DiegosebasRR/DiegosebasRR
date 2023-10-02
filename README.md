@@ -6,8 +6,8 @@
 ## Sobre mi
 -🚀 Apasionado por la Web  
 -🌟 Aprendizaje Permanente   
--🤝 Colaboración Creativa 
--💡 Mente Creativa    
+-🤝 Colaboración Creativa   
+-💡 Mente Creativa        
 -🌐 Navegando en el Código 
 
 -🚀 Soy un entusiasta desarrollador web con un amor profundo por la creación de experiencias en línea atractivas y funcionales.  

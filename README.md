@@ -19,19 +19,10 @@
 ## Skill
 
 <div display="flex">
- <ul>
-  <li> ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c483b9d-02d2-402c-8fc8-de004ecfed95) </li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/51e4f73e-855f-4c15-8697-ee7233a136dd)</li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/dd4d85f4-7932-48e6-a0ad-98dc8edcb53b)</li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/f9bc2a02-1e4e-4425-8383-dfd690784045)</li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/7974725b-6e9a-41ff-b666-762ff4316afe) </li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/c27f0d65-d334-45e6-9f9f-510afe83b12c)</li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/0dc22c51-a8b4-48f0-825b-14ba9d872190)</li>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/9514fcd2-2f36-4344-91d5-f4e081f5f7a3)</li>
-  
- </ul>
+
 </div>
-- ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/3d60b579-e240-45ae-bdb2-73b38d9cecdd)
+![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/8fdefbb8-ba69-4fe3-80eb-138d55c39c4c)
+
 <br>
 
 ## Proyectos

@@ -1,4 +1,4 @@
-![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/18b3598a-791b-4fbf-b5df-9c0c66dedc14)<div align="center">
+<div align="center">
 <h1 align="center">Hola, soy Diego Riveros👋</h1>
 </div>
 <img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png">

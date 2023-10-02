@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/-WebSite-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Mi sitio web de portafolio, construido con Astro, ofrece un equilibrio perfecto entre rendimiento y experiencia interactiva. ¡Explora mis proyectos y conéctate conmigo! 🚀🌐 #DesarrolloWeb.</p>
 </div>
                                                                                       
 </td>

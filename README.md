@@ -3,9 +3,18 @@
 </div>
 <img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png">
 
-## Sobre mi
+## Skill
 - 📲 web developer
-- 
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node JS
+- Python
+- Django
+- Kotlin
+- ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/3d60b579-e240-45ae-bdb2-73b38d9cecdd)
+
 <br>
 
 ## Proyectos

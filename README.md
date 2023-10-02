@@ -4,7 +4,7 @@
 <img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696278518/Dise%C3%B1o_sin_t%C3%ADtulo_1_slyz1q.png">
 
 ## Sobre mi
--🚀 Apasionado por la Web: Soy un entusiasta desarrollador web con un amor profundo por la creación de experiencias en línea atractivas y funcionales.   
+-🚀 Apasionado por la Web: Soy un entusiasta desarrollador web con un amor profundo por la creación de experiencias en línea atractivas y funcionales.
 -🌟 Aprendizaje Permanente: Mi viaje en la programación es una búsqueda constante de conocimiento y mejora. Siempre estoy explorando nuevas tecnologías y tendencias en el mundo del desarrollo.
 -🤝 Colaboración Creativa: Disfruto colaborando con equipos para resolver desafíos técnicos y crear soluciones innovadoras que impacten positivamente a los usuarios.
 -💡 Mente Creativa: Mi enfoque no solo se trata de código, sino de encontrar soluciones creativas y efectivas para los problemas, llevando las ideas desde la concepción hasta la implementación.

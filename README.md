@@ -20,7 +20,7 @@
 
 <div display="flex">
  <ul>
-  <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c483b9d-02d2-402c-8fc8-de004ecfed95)</li>
+  <li> ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c483b9d-02d2-402c-8fc8-de004ecfed95) </li>
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/51e4f73e-855f-4c15-8697-ee7233a136dd)</li>
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/dd4d85f4-7932-48e6-a0ad-98dc8edcb53b)</li>
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/f9bc2a02-1e4e-4425-8383-dfd690784045)</li>

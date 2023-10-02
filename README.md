@@ -17,8 +17,8 @@
 -🌐 En mi tiempo libre, puedes encontrarme explorando proyectos de código abierto   
  
 ## Skill
-![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c485406-b3a8-476d-8284-8fc82dd0060d)
-![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5939bf7b-60a8-42e0-bb90-f96eb3fb3f3b)
+- ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5c485406-b3a8-476d-8284-8fc82dd0060d)
+- ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5939bf7b-60a8-42e0-bb90-f96eb3fb3f3b)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/36504ebd-4ada-405b-a5b4-143db9820a03)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/5557a18f-cb66-4216-8118-5ed00859c5f7)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/7d8bbd72-7f2a-491a-a2cb-6e09a4276ce4)

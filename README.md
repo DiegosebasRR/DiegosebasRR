@@ -24,7 +24,6 @@
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/7d8bbd72-7f2a-491a-a2cb-6e09a4276ce4)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/2560718d-ac26-4226-80f8-ed3ac2526b1c)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/74d0f0e6-5ac3-4e69-bf10-a1ed6793766d)
-![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/9bf0890d-9df2-497c-a240-6eeed690fab6)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/c35872ae-84ff-493f-816b-f101ef081364)
 ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/648728f1-d7d0-4b19-a3fb-f5802ddbe0a2)
 

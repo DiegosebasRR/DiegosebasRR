@@ -28,10 +28,10 @@
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/c27f0d65-d334-45e6-9f9f-510afe83b12c)</li>
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/0dc22c51-a8b4-48f0-825b-14ba9d872190)</li>
   <li>![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/9514fcd2-2f36-4344-91d5-f4e081f5f7a3)</li>
-  ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/3d60b579-e240-45ae-bdb2-73b38d9cecdd)
+  
  </ul>
 </div>
-
+- ![image](https://github.com/DiegosebasRR/DiegosebasRR/assets/86979824/3d60b579-e240-45ae-bdb2-73b38d9cecdd)
 <br>
 
 ## Proyectos

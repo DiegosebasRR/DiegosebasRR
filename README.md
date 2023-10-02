@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Portafolio web</h3>
 <div align="center">
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/portagolio1_bapxcl.png" width="400" alt="Curso básico android"></a>
 <p>
@@ -51,7 +51,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Marvel Hero Hub</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/marvel_hero_rk4mdt.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>

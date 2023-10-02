@@ -8,7 +8,7 @@
 - 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
@@ -57,8 +57,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/DiegosebasRR">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegosebasRR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegosebasRR&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

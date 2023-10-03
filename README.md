@@ -62,13 +62,13 @@
                <br>
 <h3 align="center">Marvel Hero Hub</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/marvel_hero_rk4mdt.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/DiegosebasRR/Marvel_app" target="_blank"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/marvel_hero_rk4mdt.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/DiegosebasRR/Marvel_app" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<a href="https://marvelherohub.web.app/" target="_blank">
 <img src="https://img.shields.io/badge/-WebSite-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>

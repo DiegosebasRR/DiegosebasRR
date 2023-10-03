@@ -44,12 +44,12 @@
 <td width="50%">
 <h3 align="center">Portafolio web</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/portagolio1_bapxcl.png" width="400" alt="Curso básico android"></a>
+<a href="https://diego-riveros-portfolio.web.app/"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/portagolio1_bapxcl.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://diego-riveros-portfolio.web.app/" target="_blank">
 <img src="https://img.shields.io/badge/-WebSite-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>

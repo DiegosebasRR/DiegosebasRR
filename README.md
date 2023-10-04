@@ -46,7 +46,7 @@
 <div align="center">
 <a href="https://diego-riveros-portfolio.web.app/"><img src="https://res.cloudinary.com/dbarwsgb4/image/upload/v1696280005/portagolio1_bapxcl.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/DiegosebasRR/PortafolioWeb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://diego-riveros-portfolio.web.app/" target="_blank">
